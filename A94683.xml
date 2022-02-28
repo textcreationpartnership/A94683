@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right worshipful our worthy patriots of our country of Cornwall, assembled at Truroe the 27th of December, anno, 1659 The humble remonstrance of us gentlemen, and free-holders of the county of Cornwall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94683</idno>
+            <idno type="STC">Wing T1718</idno>
+            <idno type="STC">Thomason 669.f.23[13]</idno>
+            <idno type="STC">ESTC R211500</idno>
+            <idno type="EEBO-CITATION">99870222</idno>
+            <idno type="PROQUEST">99870222</idno>
+            <idno type="VID">163669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163669)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f23[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right worshipful our worthy patriots of our country of Cornwall, assembled at Truroe the 27th of December, anno, 1659 The humble remonstrance of us gentlemen, and free-holders of the county of Cornwall.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thomas,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659. [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Dated at end: This Declaration was proclaimed by order in the Market-Place at Truroe the 31 of December, 1659.</note>
+                  <note>Annotation on Thomason copy: "Jan: 25."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cornwall (England : County) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163669:1" rendition="simple:additions"/>
+            <head>To the Right Worſhipful our Worthy PATRIOTS of our County of
+CORNWALL, Aſſembled at TR<g ref="char:V">Ʋ</g>ROE <date>the 27<hi rend="sup">th</hi> of December,
+Anno, 1659.</date> The Humble Remonſtrance of us Gentlemen, and Free-holders of the County of
+CORNWALL.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat the Liberties, Freedoms and Priviledges of the people of <hi>England,</hi> having been long ſince owned,
+and Challenged by the people in Parliament, and in Parliament, allowed and confirmed by the late
+King, and the preſervation thereof, having been conſtantly declared to be the chief end of their Truſt,
+who have ſucceeded the ſaid King in the Government of theſe Nations, we could not but think our
+ſelves on all hands ſufficiently ſecured of our liberties, and ſo (ſcorning thoſe who would perſwade us to
+a contrary beliefe) have peaceably and too too ſecurely ſate down under our own Vines, not ſuſpeting the loſſe
+of that which ſeemed with ſo much zeal contended for, and with ſuch care continued and confirmed to us.</p>
+            <p>In which ſecurity we ſhould ſtill have reſted (inſenſible of the wrongs of others) had it not pleaſed him that never
+ſleepeth to awaken us, and by our own ſufferings to informe us, that were not ſafe, but that our dangers require that
+we ſhould exclaime with the <hi>Prophet, That they have healed the Daughter of my people with ſweet words, ſaying Peace, Peace,
+when there is no Peace,</hi> Jer. 8. 11.</p>
+            <p>Wherefore we knowing it to be the duty of every Freeman to ſtand Sentinel over his Priviledges, and at all times
+to call in Aid, his Fellow Freemen to diſappoint ſuch as ſhall offer an Invaſion upon their Rights, we in diſcharge
+of that duty Cry unto you, for being ſuch as have a double call, being bleſſ'd with double Talents, as made ſtrong
+for the helpe of the weake, unto you we humbly Remonſtrate and Complaine with the ſame <hi>Prophet.</hi>
+            </p>
+            <p>1. That our ſervants have ruled over us, and none will deliever us out of their hands, for certain diſorderly per<g ref="char:EOLhyphen"/>ſons
+lately imbodied, taking advantage of the preſent diſtractions of the Nation, contrary to our Ancient and
+undoubted Rights and priviledges, have of late entred the houſes, taken away, and diſpoſed the goods, Frighted
+the wives, threatened and abuſed the perſons of many of us, to the terrour of us all <hi>Lament.</hi> 5. 8.</p>
+            <p>2. And to our greater aſtoniſhment, ſuch boldneſſe have they gained (by paſſing uncomptrouled) as that they
+dare not only promiſe themſelves impunity, but alſo brag, that our innocence and Laws (the only weapons that are
+left us) are too weak to withſtand their wills in defence of what as yet we poſſeſſe.</p>
+            <p>3. And to take from us and our Poſterity all hopes of ever regaining our rights, they openly declare againſt
+our having of any more Parliaments, the only expedient for effecting our Freedomes, they Contemne the Law,
+the only meanes for gaining redreſſe for our wrongs; And the better to increaſe their Numbers to effect what they
+ſo threaten, and to defend what they have ſo uſurped, they not only deſpiſe, but alſo threaten to deſtroy the
+Miniſterie, who are our ſpiritual Shepherds, whoſe ſtudy is diſpoſed to informe, and reclaime ſuch whoſe weakneſs
+may be apt to be ſeduced by the ſeditious, ſo that they being both reſolute in their practiſes, and deſperate in their
+principles, that a ſtop may be put to perſons, &amp; actions ſo deſtructive to our Religion, Freedoms and Liberties.</p>
+            <div type="prayer">
+               <head>We Humbly Pray,</head>
+               <p>That you would uſe your endeavours for the ſpeedy calling of a Free Parliament, and that in the mean time
+during this Interval of Government (whiles it is with us, as once it was with <hi>Iſraell, Judges</hi> 17. 6. That ye the
+Heads of our <hi>Tribes,</hi> and Fathers of our <hi>Countrey</hi>) for our ancient Liberties, would recal your ancient Spirits, and
+take ſuch care in ſetling of this our County, for the defence of our Rights againſt the outrages of ſuch Lawleſs
+perſons, as that the Propheſies of our Enemies may not be gratified, to the reproach of ſuch who have credited
+our Publick Declarations and Proteſtations.</p>
+               <closer>
+                  <dateline>Truroe, <date>31 Decemb. 1659.</date>
+                  </dateline>
+And beſides our Prayers you ſhall receive from us ſuch ſervices as good Patriots
+may juſtly Challenge, from their obliged Countrymen.</closer>
+            </div>
+         </div>
+         <div type="declaration">
+            <p>We the Sheriff, Gentlemen, &amp; Free-holders of the County of <hi>Cornwall,</hi> being met here to conſult the peace &amp; ſafety
+of the ſaid County, in theſe times of eminent dangers and confuſion, think our ſelves obliged to Remonſtrate and
+Declare, and do hereby Remonſtrate and Declare on the behalf of our ſelves and the ſaid County, for the Vindica<g ref="char:EOLhyphen"/>ting
+of the Parliament, from all Force and Violence whatſoever, and for the reſtoring the Members thereof to their
+Freedoms, Liberties, Priviledges, and juſt Rights, and for the ſpeedy Election of new Members in the places of thoſe
+that are dead, and that we will improve our endeavours for the effecting thereof, or for the ſpeedy calling of a Free
+Parliament, we looking on Parliament Authority as the only probable means under God left us, for the ſecuring the
+Rights, Freedoms, peace and ſafety, and the effecting the ſettlement of this Nation.</p>
+            <argument>
+               <p>This Declaration was Proclaimed by order in the Market-place
+at Truroe <date>the 31 of December, 1659.</date>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed, by <hi>Nathaniel Thomas,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
